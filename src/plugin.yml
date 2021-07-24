@@ -1,0 +1,10 @@
+name: Compression
+version: 2.0
+author: SawJin
+main: me.sawjin.compression.Main
+description: adds compressed blocks recipes and smelting recipes
+api-version: 1.17
+commands:
+  recipes:
+    description: Opens the compressed blocks recipe menu.
+    usage: /recipes
